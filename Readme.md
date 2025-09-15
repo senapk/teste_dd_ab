@@ -12,3 +12,4 @@
 - Pula para um commit anterior `git checkout <id do commit>`
 - Volta para o commit mais recente `git checkout main` (ou `master`, depende
     do nome do branch principal)
+- Testando enviar pelo vscode

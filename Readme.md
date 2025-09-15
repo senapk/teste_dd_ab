@@ -9,3 +9,6 @@
 - Mostra o IstadU do supositório: `git status`
 - Faz o commit das modificações `git commit -m "mensagem"`
 - Mostra o histórico de commits `git log`
+- Pula para um commit anterior `git checkout <id do commit>`
+- Volta para o commit mais recente `git checkout main` (ou `master`, depende
+    do nome do branch principal)
